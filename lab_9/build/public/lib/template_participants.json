@@ -1,0 +1,81 @@
+{
+  "arr": [
+    {
+      "id": "1",
+      "name": "Arin Handsome",
+      "card": "666999",
+      "auction": [
+        {
+          "picture": "5",
+          "maxPrice": 1000
+        },
+        {
+          "picture": "8",
+          "maxPrice": 5540
+        },
+        {
+          "picture": "Starry Night",
+          "maxPrice": 1120
+        }
+      ],
+      "money": 66600
+    },
+    {
+      "id": "2",
+      "name": "Mr Mime",
+      "card": "554455",
+      "auction": [
+        {
+          "picture": "5",
+          "maxPrice": 200
+        },
+        {
+          "picture": "5",
+          "maxPrice": 360
+        }
+      ],
+      "money": 4300
+    },
+    {
+      "id": "3",
+      "name": "Link Zelda",
+      "card": "898067",
+      "auction": [
+        {
+          "picture": "5",
+          "maxPrice": 100
+        },
+        {
+          "picture": "2",
+          "maxPrice": 2500
+        },
+        {
+          "picture": "Starry Night",
+          "maxPrice": 60
+        }
+      ],
+      "money": 10500
+    },
+    { 
+      "id": "4",
+      "name": "Yer Dad",
+      "card": "250007",
+      "money": 900,
+      "auction": [
+        {
+          "picture": "1",
+          "maxPrice": 130
+        },
+        {
+          "picture": "2",
+          "maxPrice": 250
+        },
+        {
+          "picture": "Starry Night",
+          "maxPrice": 65
+        }
+      ]
+     
+    }
+  ]
+}

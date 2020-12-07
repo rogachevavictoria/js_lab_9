@@ -1,0 +1,52 @@
+{
+  "arr": [
+    {
+      "id": "1",
+      "name": "Starry Night",
+      "author": "Vincent Van Gogh",
+      "date": "1889",
+      "description": "Depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence",
+      "link": "/images/night.jpg",
+      "inAuction": true,
+      "beginning_price": 1000,
+      "min_step": 1,
+      "max_step": 600
+    },
+    {
+      "id": "2",
+      "name": "Pierrot",
+      "author": "Zinaida Serebriakova",
+      "date": "1911",
+      "description": "Self portrait in the costume of Pierrot",
+      "link": "/images/pierrot.jpg",
+      "inAuction": true,
+      "beginning_price": 550,
+      "min_step": 1,
+      "max_step": 100
+    },
+    {
+      "id": "3",
+      "name": "Nighthawks",
+      "author": "Edward Hopper",
+      "date": "1942",
+      "description": "People in a downtown diner late at night",
+      "link": "/images/nighthawks.jpg",
+      "inAuction": true,
+      "beginning_price": 500,
+      "min_step": 1,
+      "max_step": 1000
+    },
+    {
+      "name": "Sunflowers",
+      "author": "Vincent van Gogh",
+      "date": "1887",
+      "description": "Sunflowers",
+      "link": "/images/sunflowers.jpg",
+      "inAuction": true,
+      "beginning_price": 500,
+      "min_step": 10,
+      "max_step": 600,
+      "id": "4"
+    }
+  ]
+}
